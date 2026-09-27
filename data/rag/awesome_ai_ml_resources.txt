@@ -1,0 +1,69 @@
+Title: Live Content
+
+Description: Fetched live
+
+Source: https://raw.githubusercontent.com/armankhondker/awesome-ai-ml-resources/main/README.md
+
+---
+
+<p align="center">
+  <img src="diagrams/awesome-ai-ml-resources.png" width="350" height="200">
+</p>
+
+This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025.
+
+## 📌 AI/ML Key Concepts
+- [Supervised Learning](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097)
+- [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
+- [Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
+- [Deep Learning](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
+- [Natural Language Processing (NLP)](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+- [Computer Vision](https://www.geeksforgeeks.org/computer-vision/)
+- [Generative adversarial networks (GANs)](https://aws.amazon.com/what-is/gan/)
+- [Dimensionality Reduction](https://scikit-learn.org/stable/modules/decomposition.html)  
+- [Clustering Algorithms](https://scikit-learn.org/stable/modules/clustering.html) 
+- [Bayesian Inference](https://www.statlect.com/fundamentals-of-statistics/Bayesian-inference#:~:text=Bayesian%20inference%20is%20a%20way,that%20could%20generate%20the%20data.)
+- [Time Series Analysis](https://otexts.com/fpp3/) 
+- [Self-Supervised Learning](https://lilianweng.github.io/posts/2021-05-31-self-supervised-learning/)
+
+## 🛠️ AI/ML Building Blocks
+- [Linear Algebra for Machine Learning](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
+- [Probability & Statistics](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+- [Calculus for Optimization](https://www.khanacademy.org/math/multivariable-calculus)
+- [Python for Machine Learning](https://www.coursera.org/learn/ai-python-for-beginners)
+- [Optimization Techniques](https://www.geeksforgeeks.org/optimization-algorithms-in-machine-learning/)
+- [Data Preprocessing & Feature Engineering](https://www.geeksforgeeks.org/what-is-feature-engineering/)
+- [Model Evaluation & Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)
+- [Regularization Techniques](https://www.geeksforgeeks.org/regularization-in-machine-learning/)
+- [Loss Functions](https://www.datacamp.com/tutorial/loss-function-in-machine-learning)
+- [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+- [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
+
+## 👨🏽‍💻 AI/ML Roles
+- [Machine Learning Engineer](https://www.coursera.org/articles/what-is-machine-learning-engineer)
+- [Data Scientist](https://www.coursera.org/articles/what-is-a-data-scientist)
+- [Software Engineer (AI)](https://www.coursera.org/articles/ai-engineer)
+- [ML/AI Platform Engineer](https://ml-ops.org/)
+- [ML/AI Infrastructure Engineer](https://www.databricks.com/glossary/mlops)
+- [Framework Engineer](https://careers.qualcomm.com/careers/job/446698240161)
+- [Solution Architect](https://www.coursera.org/articles/solutions-architect)
+- [Developer Advocate](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/)
+- [Solutions Engineer](https://www.coursera.org/articles/solutions-engineer)
+- [Applied Research Scientist](https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-research-scientist-vs-applied-scientist)
+- [Research Engineer](https://www.indeed.com/career-advice/finding-a-job/research-engineers)
+- [Research Scientist](https://www.coursera.org/articles/research-scientist)
+
+## 🚗 AI/ML Roadmap
+1. Learn Python and Core Libraries  
+   - [Intro Python](https://cs50.harvard.edu/python/2022/) 
+   - [Advanced Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
+   - [NumPy: Numerical computing and arrays](https://numpy.org/devdocs/user/quickstart.html) 
+   - [Pandas: Data manipulation and analysis](https://www.w3schools.com/python/pandas/default.asp) 
+   - [Matplotlib & Seaborn: Data visualization](https://matplotlib.org/stable/tutorials/index.html) 
+   - [scikit-learn: Implement ML algorithms](https://scikit-learn.org/1.4/tutorial/index.html)
+
+2. Build a Strong Math Foundation
+   - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
+   - [Probability & Statistics](https://web.stanford.edu/class/stats116/syllabus.html)
+   - [Calculus](https://www.khanacademy.org/math/multivariable-cal
+

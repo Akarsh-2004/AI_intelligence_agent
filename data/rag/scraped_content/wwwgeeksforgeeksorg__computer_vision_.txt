@@ -1,0 +1,258 @@
+Source URL: https://www.geeksforgeeks.org/computer-vision/
+
+Computer Vision Tutorial - GeeksforGeeks
+Courses
+Tutorials
+Practice
+Jobs
+DSA
+Practice Problems
+C
+C++
+Java
+Python
+JavaScript
+Data Science
+Machine Learning
+Courses
+Linux
+DevOps
+Earn Google Badge
+Introduction to Computer Vision
+Computer Vision - Introduction
+A Quick Overview to Computer Vision
+Applications of Computer Vision
+Fundamentals of Image Formation
+Satellite Image Processing
+Image Formats
+Image Processing & Transformation
+Digital Image Processing Basics
+Difference Between RGB, CMYK, HSV, and YIQ Color Models
+Image Enhancement Techniques using OpenCV - Python
+Image Transformations using OpenCV in Python
+How to find the Fourier Transform of an image using OpenCV Python?
+Python - Intensity Transformation Operations on Images
+Histogram Equalization in Digital Image Processing
+Python - Color Inversion using Pillow
+Image Sharpening using Laplacian, High Boost Filtering in MATLAB
+Wand sharpen() function - Python
+Python OpenCV - Smoothing and Blurring
+Python PIL | GaussianBlur() method
+Apply a Gauss filter to an image with Python
+Spatial Filtering and its Types
+Python PIL | MedianFilter() and ModeFilter() method
+Python | Bilateral Filtering
+Python OpenCV - Morphological Operations
+Erosion and Dilation of images using OpenCV in Python
+Introduction to Resampling methods
+Python | Image Registration using OpenCV
+Feature Extraction and Description
+Feature Extraction Techniques - NLP
+SIFT Interest Point Detector Using Python - OpenCV
+Feature Matching using Brute Force in OpenCV
+Feature detection and matching with OpenCV-Python
+Feature matching using ORB algorithm in Python-OpenCV
+Mahotas - Speeded-Up Robust Features
+Create Local Binary Pattern of an image using OpenCV-Python
+Deep Learning for Computer Vision
+Image Classification using CNN
+Introduction To  Transfer Learning
+Top 5 PreTrained Models in Natural Language Processing (NLP)
+ML | Introduction to Strided Convolutions
+Dilated Convolution
+Continuous Kernel Convolution
+Introduction to Pooling Layer in CNN
+Introduction to Padding
+What is the difference between 'SAME' and 'VALID' padding in tf.nn.max_pool of tensorflow?
+Convolutional Neural Network (CNN) Architectures
+Deep Transfer Learning - Introduction
+Introduction to Residual Networks
+Residual Networks (ResNet) - Deep Learning
+ML | Inception Network V1
+Understanding GoogLeNet Model -  CNN Architecture
+Image Recognition with Mobilenet
+VGG-16 | CNN model
+Autoencoders in Machine Learning
+How Autoencoders works ?
+Difference Between Encoder and Decoder
+Implementing an Autoencoder in PyTorch
+Generative Adversarial Network (GAN)
+Deep Convolutional GAN with Keras
+StyleGAN - Style Generative Adversarial Networks
+Object Detection and Recognition
+Detect an object with OpenCV-Python
+Haar Cascades for Object Detection - Python
+R-CNN - Region-Based Convolutional Neural Networks
+YOLO v2 - Object Detection
+Face recognition using Artificial Intelligence
+Deep Face Recognition
+ML | Face Recognition Using Eigenfaces (PCA Algorithm)
+Emojify using Face Recognition with Machine Learning
+Object Detection with Detection Transformer (DETR) by Facebook
+Image Segmentation
+Image Segmentation Using U-Net
+Thresholding-Based Image Segmentation
+Region and Edge Based Segmentation
+Image Segmentation with Watershed Algorithm - OpenCV Python
+Mask R-CNN
+3D Reconstruction
+Python OpenCV - Depth map from Stereo Images
+Top 7 Modern-Day Applications of Augmented Reality (AR)
+Virtual Reality, Augmented Reality, and Mixed Reality
+Camera Calibration with Python - OpenCV
+Python OpenCV - Pose Estimation
+40+ Top Computer Vision Projects [2025 Updated]
+Courses
+Data Science 360 Course
+AI Engg Course
+Data Science 360 Course
+Explore
+Computer Vision Tutorial
+Last Updated :
+10 Jul, 2026
+Computer Vision is a field of artificial intelligence that enables machines to interpret and understand visual information from images and videos. It uses image processing techniques and deep learning models to detect objects, recognize patterns and extract meaningful insights from visual data.
+Basics
+This section introduces how machines analyze and understand images and videos using techniques like image processing and deep learning models.
+Introduction
+Image Processing
+Image Representation and Pixels
+Image Analysis and Manipulation
+Mathematical Prerequisites
+Before moving into Computer Vision, having a foundational understanding of certain mathematical concepts will help us which includes:
+1. Linear Algebra
+Linear Algebra
+Vectors
+Matrices and Tensors
+Eigenvalues and Eigenvectors
+Singular Value Decomposition
+2. Signal Processing
+Signal Processing
+Image Filtering and Convolution
+Discrete Fourier Transform (DFT)
+Fast Fourier Transform (FFT)
+Principal Component Analysis (PCA)
+Key Concepts
+It refers to techniques for manipulating and analyzing digital images. Common image processing tasks include:
+1. Image Transformation
+Image Transformation
+Geometric Transformations
+Fourier Transform
+Intensity Transformation
+2. Image Enhancement
+Image Enhancement
+Histogram Equalization
+Contrast Enhancement
+Image Sharpening
+Color Correction
+3. Noise Reduction Techniques
+Noise Reduction Techniques
+Median Filtering
+Bilateral Filtering
+Wavelet Denoising
+4. Morphological Operations
+Morphological Operations
+Erosion and Dilation
+2. Feature Extraction
+It involves identifying distinctive elements within an image for analysis and its techniques include:
+1. Edge Detection Techniques
+Computer Vision Algorithms
+Edge Detection Techniques
+Canny Edge Detector
+Sobel Operator
+Laplacian of Gaussian (LoG)
+2. Corner and Interest Point Detection
+Harris Corner Detection
+3. Feature Descriptors
+Feature Descriptors
+SIFT (Scale-Invariant Feature Transform)
+SURF (Speeded-Up Robust Features)
+ORB (Oriented FAST and Rotated BRIEF)
+HOG (Histogram of Oriented Gradients)
+Popular Libraries
+To implement computer vision tasks effectively, various libraries are used:
+OpenCV
+TensorFlow
+PyTorch
+Scikit Learn
+Deep Learning
+Deep learning has enhanced computer vision by allowing machines to understand and analyze visual data.
+1. Convolutional Neural Networks (CNNs)
+Convolutional Neural Networks are designed for learning spatial hierarchies of features from images.
+Deep Learning
+Convolutional Neural Networks
+Convolutional Layers
+Pooling Layers
+Fully Connected Layers
+2. Generative Adversarial Networks (GANs)
+It consists of two networks that work against each other to create realistic images.
+Generative Adversarial Networks (GANs)
+Deep Convolutional GAN (DCGAN)
+Conditional GAN (cGAN)
+Cycle-Consistent GAN (CycleGAN)
+Super-Resolution GAN (SRGAN)
+StyleGAN
+3. Variational Autoencoders (VAEs)
+They are a probabilistic form of autoencoders that learn a distribution over the latent space instead of mapping inputs to a fixed point.
+Autoencoders
+Variational Autoencoders (VAEs)
+Denoising Autoencoders (DAE)
+Convolutional Autoencoder (CAE)
+4. Vision Transformers (ViT)
+They are inspired by transformer models and process images as sequences of patches using self-attention mechanisms.
+Vision Transformers (ViT)
+Swin Transformer
+CvT (Convolutional Vision Transformer)
+5. Vision Language Models
+They integrate visual and textual information to perform image processing and natural language understanding.
+Vision language models
+CLIP (Contrastive Language-Image Pre-training)
+ALIGN (A Large-scale ImaGe and Noisy-text)
+BLIP (Bootstrapping Language-Image Pre-training)
+Applications
+1.
+Image Classification
+It involves analyzing an image and assigning it a specific label or category based on its content.
+Image Classification
+Using Support Vector Machine (SVM)
+Using RandomForest
+Using CNN
+Using TensorFlow
+Using PyTorch Lightning
+Various types of Image Classification:
+Multiclass classification
+Multilabel classification
+Zero-shot classification
+2.
+Object Detection
+It involves identifying and locating objects within an image by drawing bounding boxes around them.
+Object Detection
+YOLO
+SSD
+Region-Based Convolutional Neural Networks (R-CNNs)
+Fast R-CNN
+Faster R-CNN
+Mask R-CNN
+Using TensorFlow
+Using PyTorch
+Various types of  Object Detection:
+Bounding Box Regression
+Intersection over Union (IoU)
+Region Proposal Networks (RPN)
+Non-Maximum Suppression (NMS)
+3.
+Image Segmentation
+It involves partitioning an image into distinct regions or segments to identify objects or boundaries at a pixel level.
+Image Segmentation
+Using K Means Clustering
+Using UNet
+Using TensorFlow
+Using Mask R-CNN
+Various types of image segmentation:
+Semantic Segmentation
+Instance Segmentation
+Panoptic Segmentation
+Related Articles:
+Steps in Computer Vision
+Computer Vision Libraries
+Applications of Computer Vision
+Comment

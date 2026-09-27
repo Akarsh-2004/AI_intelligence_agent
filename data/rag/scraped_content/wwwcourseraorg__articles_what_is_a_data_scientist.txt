@@ -1,0 +1,252 @@
+Source URL: https://www.coursera.org/articles/what-is-a-data-scientist
+
+What Is a Data Scientist? Salary, Duties + How to Become One | Coursera
+What Is a Data Scientist? Salary, Duties + How to Become One
+Written by Coursera Staff â¢
+Updated on
+May 24, 2026
+A data scientist uses data to understand and explain the phenomena around them, and help organizations make better decisions.
+Data scientists use their knowledge and expertise to help organizations make more informed, data-driven decisions. At a glance, here's what you need to know about data scientists:
+They're in demand. According to the US Bureau of Labor Statistics (BLS), job openings for data scientists are projected to grow by 34 percent between 2024 and 2034 [
+1
+].
+At their core, data scientists are problem solvers. Common duties include finding patterns in datasets, creating algorithms and data models, and deploying data tools like R and SQL in data analysis.
+While most data scientists possess a degree in a related field, it's possible to build the required skills by a taking courses or attending bootcamps.
+Below, we'll discuss what data scientists do and how to become one. Afterward, if you're interested in pursuing a career as a data scientist, consider enrolling in the
+IBM Data Science Professional Certificate
+. You'll learn the tools, languages, and libraries used by professional data scientists, including Python and SQL.
+What does a data scientist do?
+Data scientists determine the questions their team should be asking and figure out how to answer those questions using data. They often develop predictive models for theorizing and forecasting.
+A data scientist might do the following tasks on a day-to-day basis:
+Find patterns and trends in datasets to uncover insights
+Create algorithms and data models to forecast outcomes
+Use
+machine learning
+techniques to improve the quality of data or product offerings
+Communicate recommendations to other teams and senior staff
+Deploy data tools such as
+Python
+,
+R
+, SAS, or
+SQL
+in data analysis
+Stay on top of innovations in the data science field
+Thanks to this work, a data science career can be intellectually challenging and analytically satisfying while also putting you at the forefront of new technologies.
+Data scientist salary and job growth
+A data scientist earns a median salary of $112,590, according to the US Bureau of Labor Statistics [
+1
+]. Demand is high for data professionalsâdata scientists occupations are expected to grow by 36 percent in the next 10 years (much faster than average), according to the US Bureau of Labor Statistics (BLS).
+Data scientist jobs
+Data science jobs are becoming commonplace and necessary for companies across the globe to optimize quality and financial growth. At a glance, here are some in-demand data science jobs you should consider exploring in the field:
+Data scientists
+identify the questions their teams should ask and figure out how to answer them with data. Using their advanced knowledge and experience, data scientists must often develop predictive models and algorithms to theorize and forecast outcomes.
+Data analysts
+collect, analyze, evaluate, review, organize, and
+visualize data
+. They use various techniques, such as
+statistical
+and
+cluster analysis
+, to identify trends that help others make more informed business decisions.
+Data engineers
+build systems that can automatically collect, store, manage, and analyze data sets so that other data professionals can spot trends and patterns for interpretation.
+Data architects
+create plans for systems to manage and organize data, then oversee the construction of those systems, so that other data professionals can do their jobs.
+Machine learning engineers
+design the architecture for
+artificial intelligence (AI)
+programs to interact with large data sets.
+Business intelligence engineers
+design, install, maintain, and develop data systems that analyze large chunks of data specifically for financial and business purposes.
+Data scientist vs. data analyst: Whatâs the difference?
+The work of
+data analysts
+and data scientists can seem similarâboth find trends or patterns in data to reveal new ways for organizations to make better decisions about operations. But data scientists tend to have greater responsibility and are generally considered more senior than data analysts.Â
+Data scientists are often expected to formulate their own questions about the data, while data analysts might support teams that already have set goals. A data scientist might also spend more time developing models, using machine learning, or incorporating advanced programming to find and analyze data.
+Read more:
+Data Analyst vs. Data Scientist: Whatâs the Difference?
+How to become a data scientist
+Becoming a data scientist generally requires some formal training. Here are some steps to consider.
+1. Earn a degree.
+Employers generally like to see some academic credentials to ensure you have the know-how to tackle a data science job, though itâs not always required. About 51 percent of data scientists have a bachelor's, while 34 percent have a master's [
+2
+].
+If you're considering a degree, majors like computer science, statistics, or data science (if available as a specific program) are great foundations. If you already have a bachelor's degree, a master's degree can be an excellent way to pivot into the field. At the master's level, you'll gain a firm understanding of statistics, machine learning, algorithms, modeling, and forecasting.
+Read more:
+Data Science Major: What You Need to Know Before Declaring
+2. Or learn about data science in other ways.
+If a degree is not a commitment you're ready to make just yet, consider alternative types of education to bolster your knowledge and build your skill set. Individual courses, specializations, and professional certificates are all great ways to grow familiar with the subject matter while working with tools that will strengthen your technical abilities.
+As with the other courses I took on Coursera, this program strengthened my portfolio and helped me in my career.
+â
+Mo R
+., on taking the IBM Data Science Professional Certificate
+3. Sharpen relevant skills.
+If you feel like you can polish some of your technical and interpersonal skills, think about taking an online course or enrolling in a relevant boot camp. Here are some of the skills youâll want to have under your belt.
+Programming languages:
+Popular programming languages for data science include
+Python
+, R, SQL, and SAS.
+Data visualization:
+Familiarity with data visualization tools like
+Tableau
+,
+Power BI
+, and Excel is essential for data scientists.
+Machine learning:
+Incorporating machine learning and deep learning into your work as a data scientist means continuously improving the quality of the data you gather and potentially being able to predict the outcomes of future datasets. A
+course in machine learning
+can get you started with the basics.
+Big data:
+Some employers may want to see that you have some familiarity in grappling with
+big data
+. Some of the software frameworks used to process big data include Hadoop and Apache Spark.
+Communication:
+The ability to share ideas and results verbally and in written language is an often-sought skill for data scientists.
+Artificial intelligence (AI):
+Generative AI
+is increasingly prevalent across data science work streams, including to clean, organize, and analyze data. Learning how to use AI for data science, consequently, is imperative for those who want to enter into the field today.
+Read more:
+AI in Data Science: Uses, Examples, and Tools to Consider
+4. Explore data scientist jobs.
+Though there are many paths to becoming a data scientist, starting a related entry-level job can be an excellent first step. Seek positions that work heavily with data, such as
+data analyst
+,
+business intelligence analyst
+, statistician, or
+data engineer
+. From there, you can work your way up to becoming a scientist as you expand your knowledge and skills.
+5. Prepare for data science interviews.
+With a few years of experience working with data analytics, you might feel ready to move into data science. Once youâve scored an interview, prepare answers to likely
+data science interview questions
+.Â
+Data scientist positions can be highly technical, so you may encounter technical and behavioral questions. Anticipate both, and practice by speaking your answer aloud. Preparing examples from your past work or academic experiences can help you appear confident and knowledgeable to interviewers.
+Here are a few questions you might encounter:
+What are the pros and cons of a linear model?
+What is a random forest?
+How would you use SQL to find all duplicates in a data set?
+Describe your experience with machine learning.
+Give an example of a time you encountered a problem you didnât know how to solve. What did you do?
+Read more:
+SQL Interview Questions: A Guide for Data Analysts
+How long does it take to become a data scientist?
+The amount of time it takes to become a data scientist depends on your previous experience, education, and skills. If you're transitioning into data science from a related career such as
+software engineering
+or machine learning, gaining the required competencies through certificate programs or online classes may only take a few months.
+However, if you do not have a background in data and wish to pursue a data science career, you may need to earn at least a bachelor's degree or gain foundational knowledge and experience in the field through certificates and training to pursue this career.
+If you're considering earning a degree to break into the field, you'll spend around four to five years earning a
+bachelor's degree
+(in computer science or a related field) and an additional two years earning a
+master's degree
+. This timeline can vary depending on your chosen course and method of study.
+Learn data science on Coursera
+Data scientists use their knowledge of data types, techniques, and tools to askâ and answerâ impactful questions. Keep learning about this impactful data career with these resources from Coursera:
+Watch on YouTube:
+Why Your Data Isn't Telling a Story
+Build your career:
+Data Science Learning Roadmap: Beginner to Expert (2026)
+Learn more:
+Data Science Terminology and Definitions
+With
+Coursera Plus
+, you can learn and earn credentials at your own pace from over 350 leading companies and universities. With a monthly or annual subscription, youâll gain access to over 10,000 programsâjust check the course page to confirm your selection is included.Â Â
+Navigate your career path in tech with 15+ all-new courses from Microsoft
+Enroll now
+Best Data Science courses for beginners
+Top-rated beginner-friendly Data Science courses with no prerequisites.
+1
+IBM Data Science
+IBM
+Beginner
+3 - 6 Months
+Professional Certificate
+4.6
+(150,870)
+2
+Python for Data Science, AI & Development
+IBM
+Beginner
+1 - 3 Months
+Course
+4.6
+(43,710)
+3
+What is Data Science?
+IBM
+Beginner
+1 - 4 Weeks
+Course
+4.7
+(77,825)
+Best free Data Science courses
+High-quality free Data Science courses you can start today.
+1
+Introduction to Data Analysis using Microsoft Excel
+Coursera
+Intermediate
+Less Than 2 Hours
+Guided Project
+4.7
+(4,773)
+2
+Create Your First Python Program From UST
+Coursera
+Beginner
+Less Than 2 Hours
+Guided Project
+4.6
+(3,098)
+3
+Using Basic Formulas and Functions in Microsoft Excel
+Coursera
+Beginner
+Less Than 2 Hours
+Guided Project
+4.6
+(2,616)
+Best Data Science professional programs
+Earn a certificate in Data Science from top universities and companies.
+1
+Introduction to Data Science
+IBM
+Beginner
+3 - 6 Months
+Specialization
+4.6
+(102,253)
+2
+Data Science
+Johns Hopkins University
+Beginner
+3 - 6 Months
+Specialization
+4.5
+(50,982)
+3
+Data Science Foundations
+IBM
+Beginner
+3 - 6 Months
+Specialization
+4.6
+(117,791)
+Article sources
+1
+.Â
+US Bureau of Labor Statistics. "
+Occupational Outlook Handbook: Data Scientists
+, https://www.bls.gov/ooh/math/data-scientists.htm." Accessed May 23, 2026.
+2
+.Â
+Zippia. "
+What is a Data Scientist and How to Become One
+, https://www.zippia.com/data-scientist-jobs/." Accessed May 23, 2026.
+View all sources
+Updated on
+May 24, 2026
+Written by:
+C
+Coursera Staff
+Editorial Team
+Courseraâs editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.

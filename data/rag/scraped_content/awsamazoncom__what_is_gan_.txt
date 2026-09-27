@@ -1,0 +1,95 @@
+Source URL: https://aws.amazon.com/what-is/gan/
+
+What is a GAN? - Generative Adversarial Networks Explained - AWS
+Skip to main content
+What is a GAN?
+Create an AWS Account
+What is a GAN?
+What are some use cases of generative adversarial networks?
+How does a generative adversarial network work?
+What are the types of generative adversarial networks?
+How can AWS support your generative adversarial network requirements?
+What is a GAN?
+A generative adversarial network (GAN) is a
+deep learning
+architecture. It trains two neural networks to compete against each other to generate more authentic new data from a given training dataset. For instance, you can generate new images from an existing image database or original music from a database of songs. A GAN is called
+adversarial
+because it trains two different networks and pits them against each other. One network generates new data by taking an input data sample and modifying it as much as possible. The other network tries to predict whether the generated data output belongs in the original dataset. In other words, the predicting network determines whether the generated data is fake or real. The system generates newer, improved versions of fake data values until the predicting network can no longer distinguish fake from original.
+What are some use cases of generative adversarial networks?
+The GAN architecture has several applications across different industries. Next, we give some examples.
+Generate images
+Generative adversarial networks create realistic images through text-based prompts or by modifying existing images. They can help create realistic and immersive visual experiences in video games and digital entertainment.
+GAN can also edit images—like converting a low-resolution image to a high resolution or turning a black-and-white image to color. It can also create realistic faces, characters, and animals for animation and video.
+Generate training data for other models
+In
+machine learning (ML)
+, data augmentation artificially increases the training set by creating modified copies of a dataset using existing data.
+You can use generative models for data augmentation to create synthetic data with all the attributes of real-world data. For instance, it can generate fraudulent transaction data that you then use to train another fraud-detection ML system. This data can teach the system to accurately distinguish between suspicious and genuine transactions.
+Complete missing information
+Sometimes, you may want the generative model to accurately guess and complete some missing information in a dataset.
+For instance, you can train GAN to generate images of the surface below ground (sub-surface) by understanding the correlation between surface data and underground structures. By studying known sub-surface images, it can create new ones using terrain maps for energy applications like geothermal mapping or carbon capture and storage.
+Generate 3D models from 2D data
+GAN can generate 3D models from 2D photos or scanned images. For instance, in healthcare, GAN combines X-rays and other body scans to create realistic images of organs for surgical planning and simulation.
+How does a generative adversarial network work?
+A generative adversarial network system comprises two deep neural networks—the
+generator network
+and the
+discriminator network
+. Both networks train in an adversarial game, where one tries to generate new data and the other attempts to predict if the output is fake or real data.
+Technically, the GAN works as follows. A complex mathematical equation forms the basis of the entire computing process, but this is a simplistic overview:
+The generator neural network analyzes the training set and identifies data attributes
+The discriminator neural network also analyzes the initial training data and distinguishes between the attributes independently
+The generator modifies some data attributes by adding noise (or random changes) to certain attributes
+The generator passes the modified data to the discriminator
+The discriminator calculates the probability that the generated output belongs to the original dataset
+The discriminator gives some guidance to the generator to reduce the noise vector randomization in the next cycle
+The generator attempts to maximize the probability of mistake by the discriminator, but the discriminator attempts to minimize the probability of error. In training iterations, both the generator and discriminator evolve and confront each other continuously until they reach an equilibrium state. In the equilibrium state, the discriminator can no longer recognize synthesized data. At this point, the training process is over.
+GAN training example
+Let's contextualize the above with an example of the GAN model in image-to-image translation.
+Consider that the input image is a human face that the GAN attempts to modify. For example, the attributes can be the shapes of eyes or ears. Let's say the generator changes the real images by adding sunglasses to them. The discriminator receives a set of images, some of real people with sunglasses and some generated images that were modified to include sunglasses.
+If the discriminator can differentiate between fake and real, the generator updates its parameters to generate even better fake images. If the generator produces images that fool the discriminator, the discriminator updates its parameters. Competition improves both networks until equilibrium is reached.
+What are the types of generative adversarial networks?
+There are different types of GAN models depending on the mathematical formulas used and the different ways the generator and discriminator interact with each other.
+We give some commonly used models next, but the list is not comprehensive. There are numerous other GAN types—like StyleGAN, CycleGAN, and DiscoGAN—that solve different types of problems.
+Vanilla GAN
+This is the basic GAN model that generates data variation with little or no feedback from the discriminator network. A vanilla GAN typically requires enhancements for most real-world use cases.
+Conditional GAN
+A conditional GAN (cGAN) introduces the concept of conditionality, allowing for targeted data generation. The generator and discriminator receive additional information, typically as class labels or some other form of conditioning data.
+For instance, if generating images, the condition could be a label that describes the image content. Conditioning allows the generator to produce data that meets specific conditions.
+Deep convolutional GAN
+Recognizing the power of convolutional neural networks (CNNs) in image processing, Deep convolutional GAN (DCGAN) integrates CNN architectures into GANs.
+With DCGAN, the generator uses transposed convolutions to upscale data distribution, and the discriminator also uses convolutional layers to classify data. The DCGAN also introduces architectural guidelines to make training more stable.
+Super-resolution GAN
+Super-resolution GANS (SRGANs) focus on upscaling low-resolution images to high resolution. The goal is to enhance images to a higher resolution while maintaining image quality and details.
+Laplacian Pyramid GANs (LAPGANs) address the challenge of generating high-resolution images by breaking down the problem into stages. They use a hierarchical approach, with multiple generators and discriminators working at different scales or resolutions of the image. The process begins with generating a low-resolution image that improves in quality over progressive GAN stages.
+How can AWS support your generative adversarial network requirements?
+Amazon Web Services (AWS) offers many services to support your GAN requirements.
+Amazon SageMaker
+is a fully managed service that you can use to prepare data and build, train, and deploy machine learning models. These models can be used in many scenarios, and SageMaker comes with fully managed infrastructure, tools, and workflows. It has a wide range of features to accelerate GAN development and training for any application.
+Amazon Bedrock
+is a fully managed service. You can use it to access foundation models (FMs), or trained deep neural networks, from Amazon and leading artificial intelligence (AI) startups. These FMs are available through APIs—so you can choose from various options to find the best model for your needs. You can use these models in your own GAN applications. With Amazon Bedrock, you can more quickly develop and deploy scalable, reliable, and secure generative AI applications. And you don't have to manage infrastructure.
+AWS DeepComposer
+gives you a creative way to get started with ML. You can get hands-on with a musical keyboard and the latest ML techniques designed to expand your ML skills. Regardless of their background in ML or music, your developers can get started with GANs. And they can train and optimize GAN models to create original music.
+Get started with generative adversarial networks on AWS by
+creating an account
+today.
+Next Steps on AWS
+Check out additional product-related resources
+Innovate faster with AWS generative AI services
+Sign up for a free account
+Instant get access to the AWS Free Tier.
+Sign up
+Start building in the console
+Get started building in the AWS management console.
+Sign in
+Browse all cloud computing concepts
+Browse all cloud computing concepts content here:
+Loading
+Loading
+Loading
+Loading
+Loading
+Did you find what you were looking for today?
+Let us know so we can improve the quality of the content on our pages
+Yes
+No

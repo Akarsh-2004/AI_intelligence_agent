@@ -1,0 +1,69 @@
+Source URL: https://scikit-learn.org/1.4/tutorial/index.html
+
+scikit-learn Tutorials — scikit-learn 1.4.2 documentation
+Toggle Menu
+Prev
+Up
+Next
+scikit-learn 1.4.2
+Other versions
+Please
+cite us
+if you use the software.
+Welcome to scikit-learn
+scikit-learn Tutorials
+An introduction to machine learning with scikit-learn
+A tutorial on statistical-learning for scientific data processing
+Working With Text Data
+Choosing the right estimator
+External Resources, Videos and Talks
+Getting Started
+User Guide
+Glossary of Common Terms and API Elements
+Examples
+API Reference
+Developer’s Guide
+scikit-learn Tutorials
+¶
+An introduction to machine learning with scikit-learn
+Machine learning: the problem setting
+Loading an example dataset
+Learning and predicting
+Conventions
+A tutorial on statistical-learning for scientific data processing
+Statistical learning: the setting and the estimator object in scikit-learn
+Supervised learning: predicting an output variable from high-dimensional observations
+Model selection: choosing estimators and their parameters
+Unsupervised learning: seeking representations of the data
+Putting it all together
+Working With Text Data
+Tutorial setup
+Loading the 20 newsgroups dataset
+Extracting features from text files
+Training a classifier
+Building a pipeline
+Evaluation of the performance on the test set
+Parameter tuning using grid search
+Exercise 1: Language identification
+Exercise 2: Sentiment Analysis on movie reviews
+Exercise 3: CLI text classification utility
+Where to from here
+Choosing the right estimator
+External Resources, Videos and Talks
+New to Scientific Python?
+External Tutorials
+Videos
+Note
+Doctest Mode
+The code-examples in the above tutorials are written in a
+python-console
+format. If you wish to easily execute these examples
+in
+IPython
+, use:
+%
+doctest_mode
+in the IPython-console. You can then simply copy and paste the examples
+directly into IPython without having to worry about removing the
+>>>
+manually.

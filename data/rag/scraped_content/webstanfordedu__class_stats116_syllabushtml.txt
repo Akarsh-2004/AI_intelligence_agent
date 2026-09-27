@@ -1,0 +1,205 @@
+Source URL: https://web.stanford.edu/class/stats116/syllabus.html
+
+Stats 116: Introduction to Probability
+Stats 116
+Home
+Course info
+Course materials
+Exercises
+Textbooks and reading
+Syllabus and lectures
+Exams
+External links
+Ed
+Gradescope
+Stats 116: Introduction to Probability
+John Duchi
+, Stanford University, Spring 2022
+As noted on the
+course information page
+,
+we will cover the following topics (time permitting):
+Counting (.5 weeks)
+Axioms of probability (1 week)
+Independence and conditional probability (1 week)
+Random variables (2 weeks)
+Continuous random variables and distributions (2 weeks)
+Laws of large numbers and the central limit theorem (2 weeks)
+Concentration inequalities (1 week)
+Lectures and course schedule (at least as planned)
+We strongly recommend completing the readings (and will assume you
+have completed all readings in the Ross textbook).  We will list
+chapters in Ross's
+First Course in Probability
+by the name Ross,
+chapters in Blitzstein and Hwang's
+Introduction to Probability
+by
+BH. These are not required, but often give excellent alternative
+perspective.
+Topics
+Reading
+Notes
+Mon, 28 March
+Overview and introduction
+Ross Chs. 1–2, BH Ch. 1
+01
+Tue, 29 March
+Combinatorics and discrete spaces
+Ross Chs. 1–2, BH Ch. 1
+02
+Wed, 30 March
+Basics of probability
+Ross Chs. 1–2, BH Ch. 1
+02
+Thu, 31 March
+Axioms of probability
+Ross  Ch. 2, BH Ch. 1
+03
+Mon, 4 April
+Axioms, begin conditional probability
+Ross Ch. 2–3, BH Ch. 2.1–2.2
+03
+Tue, 5 April
+Conditional probability
+Ross Ch. 3, BH Ch. 2.1–2.3
+04
+and
+06
+Wed, 6 April
+Bayes’ Rule and conditioning
+Ross Ch. 3, BH Ch. 2.3–2.8
+06
+and
+07
+Thu, 7 April
+Independence
+Ross Ch. 3, BH Ch. 2.5
+08
+Mon, 11 April
+Independence and Random Variables
+Ross Ch. 4, BH 2.5–2.8
+09
+Tue, 12 April
+Probability mass functions
+Ross Ch. 4, BH 3.1–3.4
+10
+Wed, 13 April
+Means and expectations
+Ross Ch. 4, BH 4.1–4.2
+11
+Thu, 14 April
+Expectations, independence of random variables
+Ross Ch. 4, BH 4.1–4.4
+12
+Mon, 18 April
+Independence and variance
+Ross Ch. 4, BH 4.1–4.6
+13
+Tue, 19 April
+Variance and examples of random variables
+Ross Ch. 4, BH 4.6–4.8
+14
+Wed, 20 April
+Poisson and geometric random variables
+Ross Ch. 4, BH 4
+15
+Thu, 21 April
+Continuous random variables
+Ross Ch. 5, BH 5.1–5.2
+16
+Mon, 25 April
+Exponential, Gaussian distributions
+Ross Ch. 5, BH 5.4–5.6
+17
+Tue, 26 April
+Means and variances of continuous distributions
+Ross Ch. 5,BH 5.4–5.6, 6.1–6.3
+18
+Wed, 27 April
+Joint distributions (discrete)
+Ross 6, BH 7.1
+19
+Thu, 28 April
+Joint distributions
+Ross 6.1–6.2, BH 7.1
+20
+Mon, 2 May
+Joint  distributions of continuous RVs
+Ross 6.3–6.5
+21
+Tue, 3 May
+Midterm Exam
+Ross Ch. 1–5
+Wed, 4 May
+More continuous RVs
+Ross 5.6, 6.6, BH 8.2–8.6
+23
+Thu, 5 May
+Beta distributions and order statistics
+Ross 5.6, 6.6,BH 8.2–8.6
+24
+Mon, 9 May
+Linear algebra review
+BH A.3, A.6
+25
+Tue, 10 May
+Linear algebra review
+BH A.3, A.6
+26
+Wed, 11 May
+Change of variables
+Ross 6.7, BH 8.1, 8.5, A.7
+27
+Thu, 12 May
+Examples of change of variables
+Ross 6.7, BH 8.1, 8.5, A.7
+28
+Mon, 16 May
+Multivariate normal distributions
+Ross 7.8.1, BH 7.5
+29
+Tue, 17 May
+Covariance
+Ross 7.4, BH 7.1–7.4
+30
+Wed, 18 May
+Conditional expectation
+Ross 7.5–7.6, BH 9.1–9.2
+31
+Thu, 19 May
+Inequalities and concentration
+Ross 8.1, 8.2, BH 10.1
+32
+Mon, 23 May
+Moment generating functions
+Ross 7.7, BH 6.4–6.5
+33
+Tue, 24 May
+Moment generating functions and Chernoff bounds
+Ross 7.7, 8.1, 8.5, BH 10.1
+34
+Wed, 25 May
+Laws of large numbers
+BH 10.2
+35
+Thu, 26 May
+Central limit theorem
+BH 10.3–10.4
+36
+Mon, 30 May
+No class
+Memorial Day
+Tue, 31 May
+Central limit theorem
+BH 10.3–10.4
+37
+Wed, 1 June
+Review
+38
+Page generated 2022-06-01 14:55:16 PDT, by
+jemdoc+MathJax
+.
+(
+source
+)

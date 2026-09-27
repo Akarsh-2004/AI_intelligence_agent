@@ -1,0 +1,500 @@
+Source URL: https://www.statlect.com/fundamentals-of-statistics/Bayesian-inference#:~:text=Bayesian%20inference%20is%20a%20way,that%20could%20generate%20the%20data.
+
+Bayesian inference | Introduction with explained examples
+Stat
+Lect
+Index
+>
+Fundamentals of
+   statistics
+Bayesian inference
+by
+Marco Taboga
+, PhD
+Bayesian inference is a way of making statistical inferences in which the
+   statistician assigns subjective probabilities to the distributions that could
+   generate the data. These subjective probabilities form the so-called prior
+   distribution.
+After the data is observed,
+Bayes' rule
+is used to
+   update the prior, that is, to revise the probabilities assigned to the
+   possible data generating distributions. These revised probabilities form the
+   so-called posterior distribution.
+This lecture provides an introduction to Bayesian inference and discusses a
+   simple example of inference about the mean of a normal distribution.
+Table of contents
+Review of the basics of statistical inference
+The likelihood
+Example
+The prior
+Example
+The prior predictive distribution
+Example
+The posterior
+Example
+The posterior predictive distribution
+Example
+Integrals
+Proportionality
+The posterior is proportional to the prior times the likelihood
+Factorization
+MCMC
+Quantities of interest
+More examples of Bayesian inference
+References
+Review of the basics of statistical inference
+Remember the main elements of a
+statistical
+   inference
+problem:
+we observe some data (a sample), that we collect in a vector
+;
+we regard
+as the
+realization
+of a
+random vector
+;
+we do not know the probability distribution of
+(i.e., the distribution that generated our sample);
+we define a statistical model, that is, a set
+of probability distributions that could have generated the data;
+optionally, we parametrize the model, that is, we put the elements of
+in correspondence with a set of real vectors called parameters;
+we use the sample and the statistical model to make a statement (an inference)
+         about the unknown data generating distribution (or about the parameter that
+         corresponds to it).
+In Bayesian inference, we assign a subjective distribution to the elements of
+,
+   and then we use the data to derive a posterior distribution.
+In parametric Bayesian inference, the subjective distribution is assigned to
+   the
+parameters
+that are put into
+   correspondence with the elements of
+.
+The likelihood
+The first building block of a parametric Bayesian model is the
+   likelihood
+The likelihood is equal to the
+probability density
+of
+when the parameter of the data generating distribution is equal to
+.
+For the time being, we assume that
+and
+are
+continuous
+.
+   Later, we will discuss how to relax this assumption.
+Example
+Suppose that the sample
+is
+   a vector of
+independent and identically distributed
+draws
+from a
+normal
+   distribution
+.
+The mean
+of the distribution is unknown, while its variance
+is known. These are the two parameters of the model.
+The probability density function of a generic draw
+is
+where
+   we use the notation
+to highlight the fact that
+is unknown and the density of
+depends on this unknown parameter.
+Because the observations
+are
+independent
+,
+   we can write the likelihood as
+The prior
+The second building block of a Bayesian model is the
+   prior
+The prior is the subjective probability density assigned to the parameter
+.
+Example
+Let us continue the previous example.
+The statistician believes that the parameter
+is most likely equal to
+and that values of
+very far from
+are quite unlikely.
+She expresses this belief about the parameter
+by assigning to it a normal distribution with mean
+and variance
+.
+So, the prior
+   is
+The prior predictive distribution
+After specifying the prior and the likelihood, we can derive the
+marginal
+   density
+of
+:
+where:
+   in step
+we perform the so-called marginalization (see the lecture on
+random vectors
+); in
+   step
+we use the fact that a
+joint density
+can
+   be written as the product of a conditional and a marginal density (see the
+   lecture on
+conditional
+   probability distributions
+).
+The
+   notation
+is
+   a shorthand for the multiple
+   integral
+where
+is the dimension of the parameter vector
+.
+The marginal density of
+,
+   derived in the manner above, is called the
+prior predictive
+   distribution
+. Roughly speaking, it is the probability distribution
+   that we assign to the data
+before observing it.
+Example
+Given the prior and the posterior specified in the previous two examples,
+it
+   can be proved
+that the prior predictive distribution is
+where
+is an
+vector of ones, and
+is the
+identity matrix.
+Hence, the prior predictive distribution of
+is
+multivariate
+   normal
+with mean
+and
+covariance
+   matrix
+Thus, under the prior predictive distribution, a draw
+has mean
+,
+   variance
+and covariance with the other draws equal to
+.
+The covariance is induced by the fact that the mean parameter
+,
+   which is stochastic, is the same for all draws.
+The posterior
+After observing the data
+,
+   we use Bayes' rule to update the prior about the parameter
+:
+The conditional density
+is called posterior distribution of the parameter.
+By using the formula for the marginal density
+derived above, we
+   obtain
+Thus, the posterior depends on the two distributions specified by the
+   statistician, the prior
+and the likelihood
+.
+Example
+In the normal model of the previous examples,
+it
+   can be proved
+that the posterior
+   is
+where
+Thus, the posterior distribution of
+is normal with mean
+and variance
+.
+The posterior mean
+is a weighted average of:
+the mean of the observed data
+         (
+);
+the prior mean
+.
+The weights are inversely proportional to the variances of the two means:
+if the prior variance
+is high, then the prior mean
+receives little weight;
+by the same token, if the variance of the sample mean (which is equal to
+)
+         is high, then the sample mean receives little weight and more weight is
+         assigned to the prior.
+Both the sample mean and the prior mean provide information about
+.
+   They are combined together, but more weight is given to the signal that has
+   higher precision (smaller variance).
+When the sample size
+becomes very large (goes to infinity), then all the weight is given to the
+   information coming from the sample (the sample mean) and no weight is given to
+   the prior. This is typical of Bayesian inference.
+The posterior predictive distribution
+Suppose that a new data sample
+is extracted after we have observed
+and we have computed the posterior distribution of the
+   parameter
+Assume that the distribution of
+depends on
+,
+   but is independent of
+conditional on
+:
+Then the distribution of
+given
+is
+The distribution of
+given
+,
+   derived in the manner above, is called the
+posterior predictive
+   distribution
+.
+Example
+In the normal model of the previous examples, the prior is updated with
+draws
+.
+Consider a new draw
+from the same normal distribution.
+It
+   can be proved
+that the posterior predictive distribution of
+is a normal distribution with mean
+(the posterior mean of
+)
+   and variance
+, where
+is the posterior variance of
+.
+Integrals
+Up to know we have assumed that
+and
+are continuous. When they are discrete, there are no substantial changes, but
+   probability density functions are replaced with
+probability mass functions
+and integrals are replaced with summations.
+For example, if
+is discrete and
+is continuous:
+the marginal density of
+becomes
+where
+is the probability mass function of
+,
+         and the summation is over all possible values of
+;
+the formula for the posterior probability mass function of
+is the same as in the continuous
+         case:
+Proportionality
+We now take a moment to explain some simple algebra that is extremely
+   important in Bayesian inference.
+Given a posterior
+   density
+we
+   can take any function of the data
+that does not depend on
+,
+   and we can use it to build another
+   function
+Since the data
+is considered a constant after being observed, we
+   write
+that
+   is,
+is proportional to
+.
+The posterior can be recovered from
+as
+   follows:
+where:
+   in step
+we use the fact that
+does not depend on
+and, as a consequence, it can be brought out of the integral; in step
+we use the fact that the integral of a density (over the whole support) is
+   equal to
+.
+In summary, when we multiply the posterior by a function that does not depend
+   on
+(but may depend on
+),
+   we obtain a function
+proportional to the posterior.
+If we divide the new function
+by its integral, then we recover the posterior.
+The posterior is proportional to the prior times the likelihood
+In the posterior
+   formula
+the
+   marginal
+   density
+does
+   not depend on
+(because
+is "integrated out").
+Thus, by using the notation introduced in the previous section, we can
+   write
+that
+   is, the posterior
+is proportional to the prior
+times the likelihood
+.
+Both
+and
+are known because they are specified by the statistician.
+Thus, the posterior (which we want to compute) is proportional to the product
+   of two known quantities.
+This proportionality to two known quantities is extremely important in
+   Bayesian inference: various methods allow us to exploit it in order to compute
+   the posterior when (2) cannot be calculated and hence (1) cannot be worked out
+   directly.
+Factorization
+Often, we are not able to apply Bayes' rule
+because
+   we cannot derive the marginal distribution
+analytically.
+However, we are sometimes able to write the joint
+   distribution
+as
+where:
+is a function that depends only on
+;
+is a probability density (or mass) function of
+(for any fixed
+).
+If we can work out this factorization,
+   then
+See the lecture on the
+factorization
+   of probability density functions
+for a proof of this fact.
+MCMC
+There are several Bayesian models that allow us to compute the posterior
+   distribution of the parameters analytically. However, this is often not
+   possible.
+When an analytical solution is not available, Markov Chain Monte Carlo (MCMC)
+   methods are commonly employed to derive the posterior distribution
+   numerically.
+MCMC methods are
+Monte Carlo
+   methods
+that allow us to generate large samples of correlated draws from
+   the posterior distribution of the parameter vector by simply using the
+   proportionality
+The
+empirical
+   distribution
+of the generated sample can then be used to produce
+plug-in estimates
+of the
+   quantities of interest.
+See the lecture on
+MCMC
+   methods
+for more details.
+Quantities of interest
+After updating the prior, we can use the posterior distribution of
+to make statements about the parameter
+or about quantities that depend on
+.
+The quantities about which we make a statement are often called
+quantities of interest
+(e.g.,
+Bernardo
+   and Smith 2009
+) or
+objects of interest
+(e.g.,
+Geweke 2005
+).
+The Bayesian approach provides us with a posterior probability distribution of
+   the quantity of interest. We are free to summarize that distribution in any
+   way that we deem convenient.
+For example, we can:
+plot the probability density (or mass) of the quantity of interest;
+report the mean of the distribution (as our best guess of the true value of
+         the quantity of interest) and its
+standard deviation
+(as a measure
+         of dispersion of our posterior beliefs);
+report the probability that the quantity of interest (say, a parameter) is
+         equal (or very close) to a certain value which had previously been
+         hypothesized (similarly to what is done in
+hypothesis
+         testing
+).
+More examples of Bayesian inference
+Now that you know about the basics of Bayesian inference, you can study two
+   applications in the following lectures:
+Bayesian
+         inference about the parameters of a normal distribution
+, where we prove
+         all the formulae shown in the examples above;
+Bayesian inference
+         about the parameters of a linear regression model
+.
+References
+Bernardo, J. M., and Smith, A. F. M. (2009)
+Bayesian
+   Theory
+, Wiley.
+Geweke, J. (2005)
+Contemporary
+   Bayesian Econometrics and Statistics
+, Wiley.
+How to cite
+Please cite as:
+Taboga, Marco (2021). "Bayesian inference", Lectures on probability theory and mathematical statistics. Kindle Direct Publishing. Online appendix. https://www.statlect.com/fundamentals-of-statistics/Bayesian-inference.
+The books
+Most of the learning materials found on this website are now available in a traditional textbook format.
+Probability and statistics
+Matrix algebra
+Featured pages
+Statistical inference
+Wald test
+Law of Large Numbers
+Point estimation
+Almost sure convergence
+Mean square convergence
+Explore
+Maximum likelihood
+Combinations
+Convergence in probability
+Main sections
+Mathematical tools
+Fundamentals of probability
+Probability distributions
+Asymptotic theory
+Fundamentals of statistics
+Glossary
+About
+About Statlect
+Contacts
+Cookies, privacy and terms of use
+Glossary entries
+Mean squared error
+Precision matrix
+Factorial
+Almost sure
+Alternative hypothesis
+Convolutions
+Share
+To enhance your privacy,
+we removed the social buttons,
+but
+don't forget to share
+.

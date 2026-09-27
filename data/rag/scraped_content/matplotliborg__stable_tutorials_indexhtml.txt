@@ -1,0 +1,101 @@
+Source URL: https://matplotlib.org/stable/tutorials/index.html
+
+Tutorials — Matplotlib 3.11.2 documentation
+Skip to main content
+Back to top
+Ctrl
++
+K
+Plot types
+User guide
+Tutorials
+Examples
+Reference
+Contribute
+Releases
+Choose version
+Gitter
+Discourse
+GitHub
+Tutorials
+#
+This page contains a few tutorials for using Matplotlib.  For the old tutorials, see
+below
+.
+For shorter examples, see our
+examples page
+.
+You can also find
+external resources
+and
+a
+FAQ
+in our
+user guide
+.
+Pyplot tutorial
+Pyplot tutorial
+Coding shortcuts
+Coding shortcuts
+Image tutorial
+Image tutorial
+The Lifecycle of a Plot
+The Lifecycle of a Plot
+Artist tutorial
+Artist tutorial
+Download
+all
+examples
+in
+Python
+source
+code:
+tutorials_python.zip
+Download
+all
+examples
+in
+Jupyter
+notebooks:
+tutorials_jupyter.zip
+User guide tutorials
+#
+Many of our tutorials were moved from this section to
+Using Matplotlib
+:
+Introductory
+#
+Quick start guide
+Customizing Matplotlib with style sheets and rcParams
+Animations using Matplotlib
+Intermediate
+#
+Legend guide
+Styling with cycler
+Constrained layout guide
+Tight layout guide
+Arranging multiple Axes in a Figure
+Axis autoscaling
+Positioning and orientation of imshow images
+Advanced
+#
+Faster rendering by using blitting
+Path Tutorial
+Path effects guide
+Transformations Tutorial
+Colors
+#
+See
+Colors
+.
+Text
+#
+See
+Text
+.
+Toolkits
+#
+See
+User Toolkits
+.
+On this page

@@ -1,0 +1,461 @@
+Source URL: https://www.coursera.org/learn/ai-python-for-beginners
+
+AI Python for Beginners | Coursera
+AI Python for Beginners
+AI Python for Beginners
+Instructor:
+Andrew Ng
+Top Instructor
+Enroll now
+94,743
+already enrolled
+4 modules
+Gain insight into a topic and learn the fundamentals.
+4.8
+254 reviews
+Beginner level
+Recommended experience
+Flexible schedule
+2 weeks at 10 hours a week
+Learn at your own pace
+4 modules
+Gain insight into a topic and learn the fundamentals.
+4.8
+254 reviews
+Beginner level
+Recommended experience
+Flexible schedule
+2 weeks at 10 hours a week
+Learn at your own pace
+What you'll learn
+Discover how Python can be applied in various domains such as marketing, and business research to solve real-world problems and enhance efficiency.
+Learn Python programming fundamentals and its integration with AI tools for data manipulation, analysis, and visualization.
+Leverage AI assistants to debug code, explain concepts, and enhance your learning, mirroring real-world software development practices.
+Skills you'll gain
+LLM Application
+Scripting
+Computer Programming
+Large Language Modeling
+Automation
+Artificial Intelligence
+Package and Software Management
+Programming Principles
+Data Structures
+Data Analysis
+Artificial Intelligence and Machine Learning (AI/ML)
+AI Integrations
+Generative AI Agents
+Show all
+Tools you'll learn
+Application Programming Interface (API)
+Jupyter
+Prompt Engineering
+Python Programming
+Details to know
+Shareable certificate
+Add to your LinkedIn profile
+Assessments
+4 assignments
+Taught in English
+14 languages available
+96%
+Most learners liked this course
+See how employees at top companies are mastering in-demand skills
+Learn more about Coursera for Business
+There are 4 modules in this course
+AI Python for Beginners is designed to help you leverage the power of Python programming, even if your goal isnât to become a software developer or AI engineer. This four-part course that teaches you to code practical AI applications from day one, even if you've never programmed before. Youâll learn with support from an AI chatbot that can help you get immediate feedback, quickly fix bugs, and keep you on track while learning new skills. You'll gain a foundational understanding of Python while building AI-powered tools like custom recipe generators, smart to-do lists, and vacation planners, and learn essential programming concepts such as variables, functions, loops, and data structures.
+By the end of this course, you'll be able to write Python scripts that interact with large language models, automate tasks, analyze your own data, and even create simple AI agents - skills that are increasingly valuable across industries from tech and finance to healthcare and creative fields.
+
+Accelerated learning with AI:
+
+Experience a new kind of learning with AI chatbot integration. This intelligent assistant helps you write, test, and debug code, providing instant feedback and personalized guidance, making sure youâre never coding alone. With the rise of AI tools, the effort and time required to learn helpful coding skills has significantly decreased, making it more accessible and beneficial for everyone.
+Basics of AI Python Coding
+Module 1
+â¢
+4 hours
+to complete
+Module details
+What's included
+5 videos
+3 readings
+1 assignment
+1 programming assignment
+1 app item
+6 ungraded labs
+Show info about module content
+5 videos
+â¢
+Total 20 minutes
+Introduction
+â¢
+3 minutes
+What is Computer Programming?
+â¢
+5 minutes
+Writing Code with Chatbots
+â¢
+6 minutes
+Navigating the Learning Platform
+â¢
+3 minutes
+How to Succeed in Coding
+â¢
+3 minutes
+3 readings
+â¢
+Total 16 minutes
+Join the DeepLearning.AI Forum to ask questions, get support, or share amazing ideas!
+â¢
+10 minutes
+Lecture Notes M1
+â¢
+1 minute
+(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace
+â¢
+5 minutes
+1 assignment
+â¢
+Total 60 minutes
+Quiz 1
+â¢
+60 minutes
+1 programming assignment
+â¢
+Total 90 minutes
+Working with a Virtual Library
+â¢
+90 minutes
+1 app item
+â¢
+Total 1 minute
+Intake Survey
+â¢
+1 minute
+6 ungraded labs
+â¢
+Total 47 minutes
+Running your First Program
+â¢
+9 minutes
+Data in Python
+â¢
+10 minutes
+Combining Text and Calculations
+â¢
+7 minutes
+Variables
+â¢
+8 minutes
+Building LLM Prompts with Variables
+â¢
+5 minutes
+Functions: Actions on Data
+â¢
+8 minutes
+Automating Tasks with Python
+Module 2
+â¢
+4 hours
+to complete
+Module details
+What's included
+1 video
+1 reading
+1 assignment
+1 programming assignment
+6 ungraded labs
+Show info about module content
+1 video
+â¢
+Total 3 minutes
+Introduction
+â¢
+3 minutes
+1 reading
+â¢
+Total 1 minute
+Lecture Notes M2
+â¢
+1 minute
+1 assignment
+â¢
+Total 60 minutes
+Quiz 2
+â¢
+60 minutes
+1 programming assignment
+â¢
+Total 120 minutes
+Book Tracker
+â¢
+120 minutes
+6 ungraded labs
+â¢
+Total 72 minutes
+Completing a Task List with AI
+â¢
+14 minutes
+Repeating Tasks with for Loops
+â¢
+13 minutes
+Prioritizing Tasks with Dictionaries and AI
+â¢
+14 minutes
+Customising Recipes with Lists, Dictionaries and AI
+â¢
+7 minutes
+Comparing Data in Python
+â¢
+12 minutes
+Helping AI Make Decisions
+â¢
+12 minutes
+Working with Your Own Data and Documents in Python
+Module 3
+â¢
+4 hours
+to complete
+Module details
+What's included
+1 video
+2 readings
+1 assignment
+1 programming assignment
+7 ungraded labs
+Show info about module content
+1 video
+â¢
+Total 4 minutes
+Introduction
+â¢
+4 minutes
+2 readings
+â¢
+Total 6 minutes
+Share Your Learning Project!
+â¢
+5 minutes
+Lecture Notes M3
+â¢
+1 minute
+1 assignment
+â¢
+Total 60 minutes
+Quiz 3
+â¢
+60 minutes
+1 programming assignment
+â¢
+Total 120 minutes
+Pluto's Poetic Journey
+â¢
+120 minutes
+7 ungraded labs
+â¢
+Total 54 minutes
+Using Files in Python
+â¢
+6 minutes
+Loading and Using your Own Data
+â¢
+7 minutes
+Reading Journals from Food Critics
+â¢
+7 minutes
+Extracting Restaurant Information from Journal Entries
+â¢
+9 minutes
+Vacation Planning Using CSV Files
+â¢
+7 minutes
+Turning Code Blocks into Reusable Functions
+â¢
+9 minutes
+Creating Detailed Itineraries for Multiple Cities
+â¢
+9 minutes
+Extending Python with Packages and APIs
+Module 4
+â¢
+5 hours
+to complete
+Module details
+What's included
+2 videos
+6 readings
+1 assignment
+1 programming assignment
+7 ungraded labs
+Show info about module content
+2 videos
+â¢
+Total 7 minutes
+Introduction
+â¢
+3 minutes
+Conclusion
+â¢
+4 minutes
+6 readings
+â¢
+Total 18 minutes
+Share Your Learning Project!
+â¢
+5 minutes
+Lecture Notes M4
+â¢
+1 minute
+[IMPORTANT] Reminder about End of Access to Lab Notebooks
+â¢
+2 minutes
+(Optional) Downloading your Notebook and Downloading your Workspace
+â¢
+3 minutes
+Acknowledgments
+â¢
+5 minutes
+(Optional) Opportunity to Mentor Other Learners
+â¢
+2 minutes
+1 assignment
+â¢
+Total 60 minutes
+Quiz 4
+â¢
+60 minutes
+1 programming assignment
+â¢
+Total 120 minutes
+Candy Analysis
+â¢
+120 minutes
+7 ungraded labs
+â¢
+Total 110 minutes
+Using Functions from a Local File
+â¢
+7 minutes
+Built-in Packages
+â¢
+8 minutes
+Using Third-party Packages
+â¢
+9 minutes
+Installing Packages
+â¢
+9 minutes
+APIs to get Data from the Web
+â¢
+8 minutes
+APIs to use AI Models
+â¢
+9 minutes
+Install Python on your computer (Optional)
+â¢
+60 minutes
+Instructor
+Instructor ratings
+4.8
+(
+86 ratings
+)
+Top Instructor
+Andrew Ng
+DeepLearning.AI
+53 Courses
+â¢
+9,983,696 learners
+Offered by
+DeepLearning.AI
+Learn more
+Explore more from Software Development
+Recommended
+Specializations
+E
+EDUCBA
+Apply Artificial Intelligence Using Python for Beginners
+Course
+Status: Free trial
+Free trial
+K
+Korea Advanced Institute of Science and Technology(KAIST)
+Practical Python for AI Coding 1
+Course
+Category: Preview
+Preview
+E
+EDUCBA
+AI with Python: Apply & Implement ML Models
+Course
+Status: Free trial
+Free trial
+C
+Coursera
+Software Development with ChatGPT: Generating Code with AI
+Guided Project
+Show 8 more
+Why people choose Coursera for their career
+Felipe M.
+Learner since 2018
+"To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood."
+Jennifer J.
+Learner since 2020
+"I directly applied the concepts and skills I learned from my courses to an exciting new project at work."
+Larry W.
+Learner since 2021
+"When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go."
+Chaitanya A.
+"Learning isn't just about being better at your job: it's so much more than that. Coursera allows me to learn without limits."
+Learner reviews
+4.8
+254
+reviews
+5 stars
+83.85%
+4 stars
+11.81%
+3 stars
+2.36%
+2 stars
+0.78%
+1 star
+1.18%
+Showing 3 of 254
+A
+AM
+5.0
+Â·
+Reviewed on Jan 28, 2025
+Great introduction to python! I feel very equipped to tackle more courses and continue to develop my programming skills!
+O
+OA
+4.0
+Â·
+Reviewed on Aug 15, 2025
+it is very good for start learn Python ,But it need to be another language in CC (Video translation) .Thanks
+B
+BS
+5.0
+Â·
+Reviewed on Jun 8, 2025
+Wonderful course with clear concepts and Andrew is a marvellous teacher...
+View more reviews
+Unlock access to 10,000+ courses with a subscription
+Start trial
+Advance your career with an online degree
+Earn a degree from world-class universities - 100% online
+Explore degrees
+Join over 4,700 global companies that choose Coursera for Business
+Learn more
+Frequently asked questions
+When will I have access to the lectures and assignments?
+To access course materials, assignments, and earn a Certificate, you'll need to purchase the Certificate experience when you enroll in a course. Eligible learners may also have the option to start with a Free Trial. Some courses may also offer a Full Course, No Certificate option. This lets you access course materials, submit required assessments, and receive a final grade, but you won't be able to earn or purchase a Certificate.
+What will I get if I purchase the Certificate?
+When you purchase a Certificate you get access to all course materials, including graded assignments. Upon completing the course, your electronic Certificate will be added to your Accomplishments page - from there, you can print your Certificate or add it to your LinkedIn profile.
+Is financial aid available?
+Yes. In select learning programs, you can apply for financial aid or a scholarship if you canât afford the enrollment fee. If fin aid or scholarship is available for your learning program selection, youâll find a link to apply on the description page.
+More questions
+Visit the learner help center
+Financial aid available,
+learn more
+Enroll now

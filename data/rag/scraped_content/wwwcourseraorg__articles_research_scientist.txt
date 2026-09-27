@@ -1,0 +1,256 @@
+Source URL: https://www.coursera.org/articles/research-scientist
+
+Research Scientist: What Is It, How to Become One, Where You Can Work, and More | Coursera
+Research Scientist: What Is It, How to Become One, Where You Can Work, and More
+Written by Coursera Staff â¢
+Updated on
+Dec 17, 2025
+Explore a career as a research scientist, making scientific discoveries and helping increase societyâs understanding of the world. Explore what research scientists do, how to become one, where you can work, and more.
+Key takeaways
+As a research scientist, you can use your pure and applied research findings to make an impact on the day-to-day lives of people worldwide.Â
+A research scientist in the US earns a median total pay of $211,000 per year [
+1
+].
+To become a research scientist, you gain needed qualifications through degrees, specialized certifications, and practical experience that helps you develop job-specific skills.
+You can work in numerous areas as a research scientist, ranging from energy to agriculture to
+health care
+.
+Explore the education, skills, and experience you'll need to become a research scientist and what you might do on a daily basis, as well as the salary, job outlook, and a possible career path. You can also start building skills that can help you bring data-driven research findings to life with the
+IBM Data Analytics with Excel and R Professional Certificate
+. In as little as three months, you can learn how to perform data analysis, including data preparation, statistical analysis, and predictive modeling using R, R Studio, and Jupyter. Upon completion, youâll have a shareable certificate to add to your professional profile.Â
+Best Data Science courses for beginners
+Top-rated beginner-friendly Data Science courses with no prerequisites.
+1
+IBM Data Science
+IBM
+Beginner
+3 - 6 Months
+Professional Certificate
+4.6
+(150,870)
+2
+Python for Data Science, AI & Development
+IBM
+Beginner
+1 - 3 Months
+Course
+4.6
+(43,710)
+3
+What is Data Science?
+IBM
+Beginner
+1 - 4 Weeks
+Course
+4.7
+(77,825)
+What is a research scientist?
+A research scientist finds solutions to problems and contributes to scientific knowledge by conducting research and experiments. They work in public and private settings and share their findings with employers and colleagues by releasing reports, research papers, and articles.
+What do research scientists do?
+Research scientists engage in two kinds of research: pure research and applied research. Pure, sometimes called basic, research involves using scientific methods to
+make discoveries
+and add to the world's body of knowledge. Applied research involves using knowledge gained to develop new applications, processes, or products or to improve existing ones.Â
+Read more:
+What Does an Applied Scientist Do? Career Guide
+Tasks and responsibilities
+To gain insight into a research scientistâs career, it helps to know about daily tasks and responsibilities. In this position, your duties might include:
+Planning, designing, and overseeing experiments and/or conducting other types of research
+Collecting samples and data
+Documenting research results and sharing them with employers and research publicationsÂ
+Writing proposals for future research projects
+Ordering, caring for, and maintaining lab supplies and equipment
+Following established safety methods and procedures
+Supervising laboratory assistants and/or assistant researchers
+Demonstrating experimental methods
+Keeping current on the latest technology and scientific developments
+Beneficial skills for research scientists
+To carry out your daily tasks and responsibilities, you can benefit from
+various skills
+as a research scientist. These include
+workplace skills
+(those needed to work alongside others) and technical skills (those needed to use job-specific tools or perform job-specific tasks).
+Workplace skills
+Research scientists might teach classes, work alongside others in a lab setting, and provide presentations to colleagues or employers. Beneficial skills that can help in these types of situations include:
+Ability to work alone or with a team
+Attention to detail
+Flexibility
+Initiative
+Leadership
+Problem-solving skills
+Verbal and written communication skills
+Technical skills
+Working in research demands several key
+technical skills
+. Some of these might include:Â
+Ability to plan, design, and oversee research projects
+Deep understanding of scientific approaches, principles, and methods
+Background in programming languages like Python and C++,
+Knowledge of data analysisÂ
+Knowledge of the latest industry developments and scientific trends
+How much does a research scientist make? Salary and job outlook
+According to Glassdoor, a research scientist in the US earns a median total pay of $211,000 per year. This includes base salary and additional pay, which may represent profit-sharing, commissions, bonuses, or other compensation [
+1
+]. However, salaries for research scientists can vary according to industry. For instance, a research scientist working in financial services earns a median total pay of $223,136 per year, while a research scientist working in information technology (IT) earns a median total pay of $213,080 per year [
+1
+]. Earning bonuses can add to the annual salary amount for a research scientist.
+Over the last five years, salaries for research scientists have risen by 14 percent, according to Zippia [
+2
+]. Projections for job growth in research science are 9 percent for medical scientists and 20 percent for computer and information research scientists for the period between 2024 to 2034, according to the US Bureau of Labor Statistics [
+3
+,
+4
+].Â
+Research scientist career paths
+Knowing how to advance your career from a research scientist position can help you decide if you want to become one. Examples of a research scientist's career path might look like this:
+Research scientistâSr. research scientistâPrincipal research scientistâResearch director
+Research scientistâResearch fellowâDoctoral fellow
+Research scientistâChemistâMicrobiologist
+Research scientistâResearch biochemistâToxicologist
+Research scientistâLaboratory managerâResearch and development manager
+Research scientistâConsultantâ
+Project manager
+Research scientistâAssistant professorâStudy director
+How to become a research scientist
+Becoming a research scientist involves a number of key steps. They include earning at least one
+degree
+, getting relevant certifications, gaining work experience, and networking.Â
+1. Earn a degree.
+Most employers require at least a
+bachelor's degree
+for a research scientist position, and some may even require a
+master's degree
+or doctorate. Common
+majors
+for someone looking to become a research scientist include:
+Biology
+Chemistry
+Biophysics
+Computer science
+Molecular biology
+BiochemistryÂ
+Pharmacology
+Premed
+2. Get certifications.
+Certifications from professional associations might improve your chances of getting a research scientist job by distinguishing you from other candidates. The Association of Clinical Research Professionals (ACRP) offers relevant certifications, like:
+ACRP Certified Professional (CP)
+ACRP Certified Clinical Research Associate (CCRA)
+ACRP Certified Clinical Research Coordinator (CCRC)
+ACRP Certified Principal Investigator (CPI)
+3. Gain work experience.
+Working in an entry-level position like a lab technician or
+assistant researcher
+can help you gain valuable work experience for a research scientist career. To get one of these positions, you may want to volunteer in a lab or seek an internship. To find an internship, check with the career center at your college or university, look for internship posts on local job websites, check professional social media sites, or visit your local job service.
+4. Network
+Your professional
+network
+can be a great source of information when you're looking for a job. To help land a research scientist position, consider attending industry events or joining a science society that relates to your field.
+Research scientist jobs and industry opportunities
+As mentioned, you can work in the private or public sector as a research scientist, so your type of workplace might be a hospital, manufacturing firm, or government agency, to name a few. The specific places you work in a particular field or industry can include an office, laboratory, or classroom.
+Available fields and industries for research scientists
+You have many options when deciding what type of research you wish to conduct. Some common fields and industries for research scientists might include:
+Health care
+Marine biologyÂ
+PharmaceuticalÂ
+Food and beverageÂ
+EngineeringÂ
+Technology
+ChemistryÂ
+Energy
+Explore research careers with our free resources
+Find the right next step for you and learn about career pathways by subscribing to our LinkedIn newsletter,
+Career Chat
+. Here, you can discover emerging industries, explore educational opportunities, and hear from peers. Or, explore these resources for your next step:
+Learn from experts:
+6 Questions With a Google AI Research Director
+Watch on YouTube:
+Career Spotlight: AI Research Scientist
+Take the quiz:
+Career Test: What Career is Right for Me Quiz?
+Â
+Whether you want to develop a new skill, get comfortable with an in-demand technology, or advance your abilities, keep growing with a
+Coursera Plus
+subscription. Youâll get access to over 10,000 flexible courses.
+Navigate your career path in tech with 15+ all-new courses from Microsoft
+Enroll now
+Best free Data Science courses
+High-quality free Data Science courses you can start today.
+1
+Introduction to Data Analysis using Microsoft Excel
+Coursera
+Intermediate
+Less Than 2 Hours
+Guided Project
+4.7
+(4,773)
+2
+Create Your First Python Program From UST
+Coursera
+Beginner
+Less Than 2 Hours
+Guided Project
+4.6
+(3,098)
+3
+Using Basic Formulas and Functions in Microsoft Excel
+Coursera
+Beginner
+Less Than 2 Hours
+Guided Project
+4.6
+(2,616)
+Best Data Science professional programs
+Earn a certificate in Data Science from top universities and companies.
+1
+Introduction to Data Science
+IBM
+Beginner
+3 - 6 Months
+Specialization
+4.6
+(102,253)
+2
+Data Science
+Johns Hopkins University
+Beginner
+3 - 6 Months
+Specialization
+4.5
+(50,982)
+3
+Data Science Foundations
+IBM
+Beginner
+3 - 6 Months
+Specialization
+4.6
+(117,791)
+Article sources
+1
+.Â
+Glassdoor. "
+Research Scientist Salaries
+, https://www.glassdoor.com/Salaries/research-scientist-salary-SRCH_KO0,18.htm." Accessed November 29, 2025.
+2
+.Â
+Zippia. "
+Research Scientist Projected Job Growth in the United States
+, https://www.zippia.com/research-scientist-jobs/trends/." Accessed November 29, 2025.
+3
+.Â
+US Bureau of Labor Statistics. "
+Medical Scientists
+, https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm." Accessed November 29, 2025.
+4
+.Â
+US Bureau of Labor Statistics. "
+Computer and Information Research Scientists
+, https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm." Accessed November 29, 2025.
+View all sources
+Updated on
+Dec 17, 2025
+Written by:
+C
+Coursera Staff
+Editorial Team
+Courseraâs editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.

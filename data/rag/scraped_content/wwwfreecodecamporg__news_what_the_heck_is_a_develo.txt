@@ -1,0 +1,55 @@
+Source URL: https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/
+
+What the heck is a Developer Advocate?
+By Wassim Chegham
+TL;DR: A developer advocate is a developer’s best friend!
+For the past three years or so, I have been dedicating my professional time and a huge amount of my personal time to help fellow developers be successful and productive with the tools they love and use. These tools include Web platforms, such as JavaScript, PWA, and Angular, the Google Cloud Platform, the Actions on Google, and chatbots in general. I’ve been doing this as a Developer Advocate.
+This blog post is based on my personal experience as a Developer Advocate. Things I’ve learned personally, but also from other Developer Advocates from other companies I’ve worked with.
+My story…
+Thirteen years ago, when I was in college studying electronics then computer science, we were taught all the theory about computer and programming paradigms, data structures, design patterns, compilers and languages, and so forth. Basically, we were taught everything junior software engineers need to know to start their career.
+However, I was probably too passionate about this because I was always doing more than the required class assignments. I mean, leaning Java at college was okay but I was getting bored. I was spending most of my spare time learning new programming paradigms from languages such as Python, PHP, Assembly 8086, oCaml, and JavaScript. That is when I discovered and fell in love with JavaScript and decided since then to always bet on JavaScript, and I’ve never regretted it.
+I had to learn new languages by building tools, scripts, apps, anything that could help me understand the internals of the language — going beyond the syntax. Of course, I was still a student back then, and I was trying to figure out how things worked and how to fix all the bugs I was creating.
+Then came the developer’ community. Thanks to the Web, I could ask and get help from other human beings — a community of professional and experienced developers. I was amazed! I was learning a ton from developers by reading their insights on their blog posts, watching their tutorials on Youtube, and discussing different topics over many tech forums and IRC (yes, it still exists!).
+I learned a lot from what other developers were sharing for free, just for the sake of helping others. That is why I simply decided to join the community and do my best to share what I was learning. To me, this was the right thing to do: other people helped me become a
+good
+developer, now it was my turn to give back and help other developers. And that is when I started caring about other developers’ productivity—and mine of course. We are all in the same boat, right?
+As I was growing professionally, I started thinking about new ways to help my fellow developers. I mean, writing articles (here on Medium and for paper magazines) is a great start, but I was not able to measure the impact my posts were having on my target audience. I then decided to go out and meet those developers, and I was hoping to share with them and learn from them in real life. Unsurprisingly, meetups, conferences and developer events are where you can find all these passionate developers.
+On a side note: Being passionate about helping other developers can (hopefully) also get you nominated for the
+Google Developer Experts
+program (or similar programs). I was so lucky to join the GDE program three years ago and be able to help and impact even more fellow developers! Thank you, Google!
+Long story short…
+Here I am today, still enjoying helping my fellow developers. And, believe it or not, this has become my full-time job at SFEIR as a Senior Developer Advocate.
+So, what the heck exactly is a Developer Advocate? What makes a great Developer Advocate? And why is hiring passionate Developer Advocates the right decision to make as an organization? Let me try and answer these questions.
+What is a Developer Advocate?
+First things first, let’s make it clear to everyone: Developer Advocates are also engineers. They have a strong technical background in their fields, they have built and shipped applications to prod. Some of them have even broken production or accidentally deleted customers databases (true story)!
+Given this requirement, Developer Advocates should not be marketing or sales people — there are roles better suited for those employees. However, Developer Advocates should be able to give feedback to marketing or sales. More importantly — to me at least — to give feedback to product management, to influence the roadmap of the products based, of course, on developers needs.
+Historically, many tech companies hired Developer Advocates to advocate for their platforms by helping end developers use their products, and they still do. So the true meaning of a Developer Advocate is
+someone whose job is to help developers be successful with a platform or a technology
+. A Developer Advocate’s role is also to act as a bridge between the engineering team and the developer community.
+Their job is to give feedback to both parties, equally, in both ways.
+A Developer Advocate is someone who truly advocates for developers, not just a platform. Developers should be the Developer Advocate’s top priority.
+What makes a great Developer Advocate?
+I believe that engineers can’t just turn into Developer Advocates because they were asked to by their managers. I also think that Developer Advocates are inherently passionate and altruistic people. These characteristics can’t simply be taught or learned.
+Personally, I have tried to convince a couple of developers to start sharing their knowledge, but I was wrong! I found out that some engineers are just more comfortable writing code (who wouldn’t be?) and fully dedicated to solving problems or building products. Sharing knowledge with other developers isn’t the top priority of every engineer. This is totally fine and must be respected. If you’re a manager, don’t force your engineers to pretend to be what they aren’t and have them be in uncomfortable situations. No one wants to be in this position.
+So what makes a great Developer Advocate? I have come to learn that many, if not all, Developer Advocates share the following characteristics.
+Continuous learning
+As engineers, we never stop learning, even after graduating. Undoubtedly, true knowledge is out there. Developer Advocates, like every other engineer, are avid learners. They seek knowledge everywhere. They use every medium they know to remain up-to-date. The Developer Advocates I know advocate for a platform or a product, and also try and use other products — even those made by competitors. Why? Because the end developers usually have to use different products and tools to build their apps. A Developer Advocate knows that!
+Thinking outside the box
+Learning new things isn’t worth it if you don’t challenge them. I never take something I’ve just learned for granted. I find myself always asking myself the same questions: “Why …?”, “What if …?”, “How can this feature be improved ?”, “How does this work under the hood?” Of course, any curious engineer would naturally be asking these questions.
+Developer Advocates are no exception. They should be able to provide a high-level explanation on how a feature works under the hood, or simply provide some technical insights about the product or the platform they advocate for. Many end developers will ask about this sooner or later, so be prepared.
+Building real-world applications
+Learning new things and knowing the theory behind them isn’t worth it if you don’t create applications using them. If you are going to be advocating for developers, the least you can do is to put yourself in the end developer’s shoes by trying to master the product and the platform you are advocating for. This is the moment where your engineering skills will be useful.
+Building real-world applications with the tools you are advocating for will also help you better understand their limitations and hopefully suggest some improvements to the engineering team. The job of a Developer Advocate is to also make sure the platform and tools you advocate to provide the best developer experience.
+Sharing and caring
+The ability to “share” information with the developers’ community is an essential part of the Developer Advocate role. You can’t be in this role if you hate sharing or helping others. And that’s OK, not all of us are altruists! But then, pretending to be advocating for developers is going to be really—wait for it— really challenging!
+Also, most companies require, in their job descriptions, good verbal and written communication skills for the Developer Advocate role. While I do agree with this requirement, I also believe that “communication skills” should not substitute for, or be confused with, the skill of “sharing and caring”. To rephrase this, hiring a Developer Advocate who truly loves sharing and helping others is way more important than someone who has developed good communication skills. In fact, the former is harder to develop!
+So, long story short: do you want to hire a great Developer Advocate? Then hire a curious and an avid learner, who can think outside of the box, with good engineering skills and genuine “sharing and empathy” skills.
+Please give this article some claps and let me know how much you liked it, on Twitter
+@manekinekko
+and make sure to follow me for more content
+?
+If you read this far, thank the author to show them you care.
+Say Thanks
+Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers.
+Get started
+ADVERTISEMENT
