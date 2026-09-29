@@ -43,3 +43,7 @@ To run the platform using Docker Compose:
 ```bash
 docker-compose up --build
 ```
+
+## Project Status
+
+This project is actively maintained and serves as a blueprint for production RAG systems.
