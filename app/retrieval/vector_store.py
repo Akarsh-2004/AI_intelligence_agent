@@ -1,5 +1,5 @@
 from typing import List, Any
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from app.retrieval.embeddings import get_embeddings_model
 
 class VectorStore:

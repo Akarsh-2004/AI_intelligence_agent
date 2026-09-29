@@ -1,7 +1,13 @@
 langchain
+langchain-core
 langchain-community
 langchain-ollama
+langchain-huggingface
 langgraph
 chromadb
+langchain-chroma
 pydantic
 unstructured
+fastapi
+uvicorn
+sentence-transformers
