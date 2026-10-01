@@ -11,22 +11,22 @@
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
         :root {
-            --bg: #060810;
-            --bg2: #0c0f1a;
-            --surface: rgba(14, 18, 32, 0.85);
-            --surface2: rgba(20, 25, 45, 0.7);
-            --border: rgba(99, 120, 220, 0.18);
-            --border-bright: rgba(99, 120, 220, 0.45);
-            --primary: #6366f1;
-            --primary-glow: rgba(99, 102, 241, 0.35);
-            --accent: #22d3ee;
-            --accent-glow: rgba(34, 211, 238, 0.3);
-            --success: #34d399;
-            --warning: #fbbf24;
-            --danger: #f87171;
-            --text: #e2e8f0;
+            --bg: #030305;
+            --bg2: #050508;
+            --surface: rgba(20, 20, 30, 0.25);
+            --surface2: rgba(30, 30, 45, 0.25);
+            --border: rgba(255, 255, 255, 0.08);
+            --border-bright: rgba(255, 255, 255, 0.2);
+            --primary: #8b5cf6;
+            --primary-glow: rgba(139, 92, 246, 0.5);
+            --accent: #0ea5e9;
+            --accent-glow: rgba(14, 165, 233, 0.5);
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #f43f5e;
+            --text: #f8fafc;
             --text-muted: #94a3b8;
-            --text-dim: #4a5568;
+            --text-dim: #64748b;
             --mono: 'JetBrains Mono', monospace;
         }
 
@@ -45,8 +45,9 @@
             position: fixed;
             inset: 0;
             background:
-                radial-gradient(ellipse 80% 50% at 20% -10%, rgba(99,102,241,0.12) 0%, transparent 60%),
-                radial-gradient(ellipse 60% 40% at 80% 110%, rgba(34,211,238,0.08) 0%, transparent 60%);
+                radial-gradient(ellipse 70% 50% at 10% -10%, rgba(139,92,246,0.15) 0%, transparent 60%),
+                radial-gradient(ellipse 70% 50% at 90% 110%, rgba(14,165,233,0.15) 0%, transparent 60%),
+                radial-gradient(circle at 50% 50%, rgba(139,92,246,0.03) 0%, transparent 50%);
             pointer-events: none;
             z-index: 0;
         }
@@ -132,10 +133,13 @@
         /* Left Sidebar */
         .sidebar-left {
             background: var(--surface);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
             border-right: 1px solid var(--border);
             padding: 1.5rem 1rem;
             overflow-y: auto;
             display: flex; flex-direction: column; gap: 1.5rem;
+            box-shadow: 5px 0 30px rgba(0,0,0,0.2);
         }
 
         .sidebar-section-title {
@@ -231,10 +235,13 @@
             max-width: 72%; border-radius: 16px;
             padding: 0.9rem 1.1rem;
             font-size: 0.9rem; line-height: 1.65; border: 1px solid;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            box-shadow: 0 4px 24px rgba(0,0,0,0.1);
         }
         .user-row .msg-bubble {
-            background: linear-gradient(135deg, rgba(99,102,241,0.18), rgba(99,102,241,0.08));
-            border-color: rgba(99,102,241,0.3); border-bottom-right-radius: 4px;
+            background: linear-gradient(135deg, rgba(139,92,246,0.15), rgba(139,92,246,0.05));
+            border-color: rgba(139,92,246,0.3); border-bottom-right-radius: 4px;
         }
         .ai-row .msg-bubble { background: var(--surface); border-color: var(--border); border-bottom-left-radius: 4px; }
 
@@ -354,14 +361,21 @@
         /* Right Sidebar */
         .sidebar-right {
             background: var(--surface); border-left: 1px solid var(--border);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
             padding: 1.5rem 1rem; overflow-y: auto;
             display: flex; flex-direction: column; gap: 1.5rem;
+            box-shadow: -5px 0 30px rgba(0,0,0,0.2);
         }
 
         .stat-card {
             background: var(--surface2); border: 1px solid var(--border);
-            border-radius: 12px; padding: 1rem; transition: border-color 0.2s;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border-radius: 12px; padding: 1rem; transition: border-color 0.2s, transform 0.2s;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
         }
+        .stat-card:hover { transform: translateY(-2px); }
         .stat-card:hover { border-color: var(--border-bright); }
         .stat-label { font-size: 0.7rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; margin-bottom: 0.4rem; }
         .stat-value {
